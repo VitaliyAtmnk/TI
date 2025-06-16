@@ -12,6 +12,7 @@ Krátký přehled struktury a build instrukce.
   - `converter/` – `Converter`  
   - `formatter/` – `DkarFormatter`  
   - `Main.java` – vstupní třída
+  - `Model/` - Model Automatu
 
 - `docs/`  
   LaTeX dokumentace (pdf)
