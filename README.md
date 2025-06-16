@@ -9,6 +9,8 @@ Krátký přehled struktury a build instrukce.
 
 ## Struktura projektu
 
+> build již obsahuje sestavenou verzi projektu
+
 - `pom.xml`  
   Maven konfigurace (Java 21, Jackson XML, Woodstox, Assembly plugin)
 
