@@ -2,6 +2,11 @@
 
 Krátký přehled struktury a build instrukce.
 
+## Osobní údaje
+
+Jméno a příjmení: `Vitalij Atamanjuk`
+Osobní číslo: `A23B0136P`
+
 ## Struktura projektu
 
 - `pom.xml`  
